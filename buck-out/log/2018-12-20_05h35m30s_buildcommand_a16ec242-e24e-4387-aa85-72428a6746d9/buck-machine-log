@@ -1,0 +1,5 @@
+InvocationInfo {"buildId":"a16ec242-e24e-4387-aa85-72428a6746d9","superConsoleEnabled":true,"isDaemon":true,"subCommand":"buildcommand","commandArgs":["build",":Box2D"],"unexpandedCommandArgs":["build",":Box2D"],"buckLogDir":"buck-out/log","timestampMillis":1545284130560}
+WatchmanOverflow {"timestamp":1545284130621,"reason":"Watchman has been initialized recently."}
+BuildFinished {"timestamp":1545284131187}
+Cache.Stats {"cacheHitsPerMode":{"dir":0},"cacheErrorsPerMode":{"dir":0},"totalCacheHits":0,"totalCacheErrors":0,"totalCacheMisses":0,"totalCacheIgnores":0,"totalCacheLocalKeyUnchangedHits":0,"successUploadCount":0,"failureUploadCount":0}
+ExitCode {"exitCode":10}

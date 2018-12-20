@@ -1,0 +1,4 @@
+InvocationInfo {"buildId":"1da16f96-781b-4d10-bda4-2575f102e4f7","superConsoleEnabled":true,"isDaemon":false,"subCommand":"buildcommand","commandArgs":["build",":Box2D"],"unexpandedCommandArgs":["build",":Box2D"],"buckLogDir":"buck-out/log","timestampMillis":1545283916450}
+BuildFinished {"timestamp":1545283916853}
+Cache.Stats {"cacheHitsPerMode":{"dir":0},"cacheErrorsPerMode":{"dir":0},"totalCacheHits":0,"totalCacheErrors":0,"totalCacheMisses":0,"totalCacheIgnores":0,"totalCacheLocalKeyUnchangedHits":0,"successUploadCount":0,"failureUploadCount":0}
+ExitCode {"exitCode":10}
