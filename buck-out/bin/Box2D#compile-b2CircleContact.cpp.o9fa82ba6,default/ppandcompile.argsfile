@@ -1,0 +1,16 @@
+-fdiagnostics-color=always
+-x
+c++
+-I
+buck-out/gen/Box2D#default,private-headers
+-I
+buck-out/gen/Box2D#header-mode-symlink-tree-only,headers
+-fdebug-prefix-map=/home/emendoza/CppProjects/Buck/buckaroo-deps/Box2D=.
+-gno-record-gcc-switches
+-o
+buck-out/gen/Box2D#compile-b2CircleContact.cpp.o9fa82ba6,default/Box2D/Dynamics/Contacts/b2CircleContact.cpp.o
+-c
+-MD
+-MF
+buck-out/gen/Box2D#compile-b2CircleContact.cpp.o9fa82ba6,default/Box2D/Dynamics/Contacts/b2CircleContact.cpp.o.dep
+Box2D/Dynamics/Contacts/b2CircleContact.cpp
